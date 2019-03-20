@@ -1,0 +1,7 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\bin\Debug\Ex7.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\bin\Debug\Ex7.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\bin\Debug\Ex7.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\obj\Debug\Ex7.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\obj\Debug\Ex7.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex7\Ex7\obj\Debug\Ex7.pdb

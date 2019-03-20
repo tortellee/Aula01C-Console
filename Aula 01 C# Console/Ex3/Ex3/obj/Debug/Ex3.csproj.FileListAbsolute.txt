@@ -1,0 +1,7 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\bin\Debug\Ex3.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\bin\Debug\Ex3.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\bin\Debug\Ex3.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\obj\Debug\Ex3.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\obj\Debug\Ex3.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Exercicios Lista 2\Ex3\Ex3\obj\Debug\Ex3.pdb
